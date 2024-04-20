@@ -7,8 +7,6 @@
     <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
 </div>
 
-### این کد فقط در جهت سهولت در اجراست و کد اصلی مطعلق به [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy) است.
-
 ## 🚀 Getting Started
 Open `Run.bat` file and choose options:
 - Set Proxy to Run Proxy Automatically
@@ -18,3 +16,4 @@ You can **[support](https://reymit.ir/itz_arshia)** me by donating if you like t
 > Only available for Iranians :(
 #
 Made with ❤️ and JavaScript, Don't Forget to ⭐
+### ©️ This code is only for ease of implementation and the original code belongs to [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy).
