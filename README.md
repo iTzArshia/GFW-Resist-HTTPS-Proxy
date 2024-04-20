@@ -16,4 +16,5 @@ You can **[support](https://reymit.ir/itz_arshia)** me by donating if you like t
 > Only available for Iranians :(
 #
 Made with ❤️ and JavaScript, Don't Forget to ⭐
-### ©️ This code is only for ease of implementation and the original code belongs to [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy).
+#
+©️ This code is only for ease of implementation and the original code belongs to [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy).
